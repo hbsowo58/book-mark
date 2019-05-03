@@ -9,4 +9,11 @@
 <a href="https://caniuse.com/#feat=picture">캔 아이 유즈<br>
 <a href="http://www.colorzilla.com/gradient-editor/">css 생성기<br>
 <a href="https://d2.naver.com/helloworld/47667">네트워크 페이지 (네트워크 스택 발전 방향전까지 , 이해)<br>
+<a href="https://codepen.io/pen/?&editable=true">코드팬 <br>
+<a href="http://www.fun-coding.org/daveblog.html">잔재미코딩 <br>
+<a href="https://namu.wiki/w/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8">나무위키 프로그래머 <br>
+<a href="https://jbee.io/essay/for_junior_frontend_developer/">신입 프론트앤드 개발자는 무엇을 공부해야할까? <br>
+<a href="https://github.com/yjs03057/33-js-concepts"><br>
+<a href="https://jigsaw.w3.org/css-validator/"> css 검사 <br>
+
 
