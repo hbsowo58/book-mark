@@ -18,7 +18,7 @@
 <br>
 <a href="https://uid.gitbook.io/css-grid/">그리드<br>
 <br>
-<a href="https://caniuse.com/#feat=picture">캔 아이 유즈(크로스브라우징)<br>
+<a href="https://caniuse.com/#feat=picture">캔 아이 유즈(크로스브라우징)
 <br>
 <a href="http://troy.labs.daum.net/">반응형 troy</a>
 <br>
